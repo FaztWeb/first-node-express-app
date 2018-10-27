@@ -1,5 +1,5 @@
 # Screenshot
-[](docs/screenshot.png)
+![](docs/screenshot.png)
 
 # Your First Nodejs/Express Website
 This is the repository of a very simple nodejs real project
