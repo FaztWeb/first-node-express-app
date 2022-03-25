@@ -1,6 +1,33 @@
 # Screenshot
 ![](docs/screenshot.png)
 
+### Installation
+
+clone the repo
+
+```
+git clone https://github.com/FaztWeb/first-node-express-app
+```
+
+move to the folder
+
+```
+cd first-node-express-app
+```
+
+install dependencies:
+
+```
+npm install
+```
+
+execute the project
+
+```
+npm run dev
+```
+
+
 # Your First Nodejs/Express Website
 This is the repository of a very simple nodejs real project
 The goal of this code, is that you understand all the code
